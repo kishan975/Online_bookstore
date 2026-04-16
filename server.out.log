@@ -1,0 +1,9 @@
+Expanding onlinebookstore.war into C:\Users\KishanYadav\git\onlinebookstore\target\tomcat.8083\webapps\expanded
+Adding Context  for C:\Users\KishanYadav\git\onlinebookstore\target\tomcat.8083\webapps\expanded
+======ERROR TRIGGERED========
+Servlet Name: default
+Request URI: /onlinebookstore/
+Status Code: 404
+Error Code: PAGE_NOT_FOUND
+Error Message: The Page You are Searching For is Not available
+=============================
